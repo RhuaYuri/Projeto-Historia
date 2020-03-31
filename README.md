@@ -1,2 +1,2 @@
-# Projeto-Historia
- Desenvolvimento de um site para o projeto de História
+# Projeto-História
+ Desenvolvimento de um site para o projeto de História.
